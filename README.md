@@ -1,6 +1,6 @@
 # Vault Share
 
-Vault Share is a local-first file-sharing application built with **React and Node.js**. Users on the same LAN can create accounts, see other active users, and share files or folders. Every transfer requires the receiver's approval before downloading.
+Vault Share is a file-sharing application built with **React and Node.js**. Users on the same LAN can create accounts, see other active users, and share files or folders. Every transfer requires the receiver's approval before downloading.
 
 The application uses encrypted file storage and authenticated JSON metadata, with **no database**.
 
